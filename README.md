@@ -9,6 +9,7 @@ What are doing a test cases: This explore a comprehensive collection of test cas
 Way to generate bug reports: This is divided into detailed bug reports documenting issues found during testing, including steps to reproduce, expected behavior, and actual outcomes. This report can be provided in diferent type of documentation using programs like EXCEL or POSTMAN.
 Each company have his own way to generate bug reports but the final scope is to have o traciabilitry of activity performed in way to eliminate all the error from programs.
 
+Files will be loaded starting from 25.01.2025
 
 RO  
 Acesta este un repository cu documente si teste manuale efectuate de-a lungul timpului pe diverse site-uri (cum ar fi peviitor.ro/ui.orase). 
@@ -20,3 +21,5 @@ Mod de generare a rapoartelor de erori: acesta este împărțit în rapoarte det
 Acest raport poate fi furnizat în diferite tipuri de documentație folosind programe precum EXCEL sau POSTMAN. 
 Fiecare companie are propriul mod de a genera rapoarte de eroare, dar scopul final este de a avea o trasabilitate a activității efectuate pentru a elimina cat mai multe erorile din programe.
 Nu se paote spune niciodata ca au fost eliminate TOATE erorile din program , se paote spune ca nu au fost gasite erori vizibile si executabile.
+
+Fisierele se vor incarca incepand cu 25.01.2025
